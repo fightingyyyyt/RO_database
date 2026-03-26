@@ -1,0 +1,14 @@
+{
+  "mode": "merge_only",
+  "input_rows": 404,
+  "bt_rows": 404,
+  "backtrace_status_counts": {
+    "BACKTRACE_CLASSIFIED": 254,
+    "TOKEN_NOT_IN_MD": 92,
+    "MD_NOT_FOUND": 41,
+    "LLM_EXPANSION_BUT_PUBCHEM_NO_HIT": 8,
+    "BACKTRACE_OK": 5,
+    "MISSING_SOURCE_RECORDINDEX": 3,
+    "CONTEXT_FOUND_BUT_NO_EXPANSION": 1
+  }
+}

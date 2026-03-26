@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.profiles.windows": {
+      "PowerShell (fyt)": {
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "args": [
+          "-NoExit",
+          "-Command",
+          "& 'D:\\Program Files\\anaconda\\Scripts\\conda.exe' 'shell.powershell' 'hook' | Out-String | Invoke-Expression; conda activate fyt"
+        ]
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell (fyt)",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+  }

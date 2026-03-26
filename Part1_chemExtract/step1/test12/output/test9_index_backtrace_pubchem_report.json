@@ -1,0 +1,20 @@
+{
+  "input_rows": 25,
+  "processed_rows": 22,
+  "md_catalog_size": 2563,
+  "backtrace_mode_counts": {
+    "material_or_commercial": 10,
+    "abbreviation": 8,
+    "general_unresolved": 4
+  },
+  "backtrace_status_counts": {
+    "BACKTRACE_CLASSIFIED": 12,
+    "BACKTRACE_ENRICHED": 4,
+    "MD_NOT_FOUND": 3,
+    "TOKEN_NOT_IN_MD": 3
+  },
+  "resolved_hits": 0,
+  "classified_hits": 12,
+  "enriched_hits": 4,
+  "bt_only_path": "test12\\output\\test9_index_backtrace_pubchem_bt_only.xlsx"
+}

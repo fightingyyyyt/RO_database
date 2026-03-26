@@ -1,0 +1,3944 @@
+[
+  {
+    "alias": "-OH",
+    "canonical_name": "Hydroxyl groups",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Hydroxyl groups (-OH)"
+  },
+  {
+    "alias": "1-GO",
+    "canonical_name": "Graphene oxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Graphene oxide (1-GO)"
+  },
+  {
+    "alias": "1-MI",
+    "canonical_name": "1-甲基咪唑",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1-甲基咪唑(1-MI)"
+  },
+  {
+    "alias": "2-AESA",
+    "canonical_name": "2-aminoethanesulfonamide hydrochloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2-aminoethanesulfonamide hydrochloride (2-AESA)"
+  },
+  {
+    "alias": "3-BPA",
+    "canonical_name": "3-bromopropionic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3-bromopropionic acid (3-BPA)"
+  },
+  {
+    "alias": "4-CMPD",
+    "canonical_name": "4-chlorometaphenylene diamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "4-chlorometaphenylene diamine (4-CMPD)"
+  },
+  {
+    "alias": "AA",
+    "canonical_name": "Acrylic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Acrylic acid (AA)"
+  },
+  {
+    "alias": "AAF-MWCNTs",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AC",
+    "canonical_name": "Aminoclay",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Aminoclay (AC)"
+  },
+  {
+    "alias": "AC-GO",
+    "canonical_name": "Aminoclay-Graphene Oxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Aminoclay-Graphene Oxide (AC-GO)"
+  },
+  {
+    "alias": "ACA",
+    "canonical_name": "6-amino caproic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "6-amino caproic acid (ACA)"
+  },
+  {
+    "alias": "ACE",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 9,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AEPPS",
+    "canonical_name": "N-aminoethyl piperazine propane sulfonate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "N-aminoethyl piperazine propane sulfonate (AEPPS)"
+  },
+  {
+    "alias": "AESA",
+    "canonical_name": "2-aminoethanesulfonamide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2-aminoethanesulfonamide (AESA)"
+  },
+  {
+    "alias": "AG",
+    "canonical_name": "Acacia gum",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Acacia gum (AG)"
+  },
+  {
+    "alias": "AGO",
+    "canonical_name": "Azide-functionalized graphene oxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Azide-functionalized graphene oxide (AGO)"
+  },
+  {
+    "alias": "AMIM",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AOPIM-1",
+    "canonical_name": "胺肟化聚自微孔聚合物",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "胺肟化聚自微孔聚合物(AOPIM-1)"
+  },
+  {
+    "alias": "AP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "APD",
+    "canonical_name": "3-amino-1,2-propanediol",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3-amino-1,2-propanediol (APD)"
+  },
+  {
+    "alias": "APSA",
+    "canonical_name": "3-Amino-1-propanesulfonic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3-Amino-1-propanesulfonic acid (APSA)"
+  },
+  {
+    "alias": "APTES",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AQP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AS",
+    "canonical_name": "Alendronate sodium trihydrate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Alendronate sodium trihydrate (AS)"
+  },
+  {
+    "alias": "ASA",
+    "canonical_name": "Aminosulfonic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Aminosulfonic acid (ASA)"
+  },
+  {
+    "alias": "Ac2O",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AgNO3",
+    "canonical_name": "Silver",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Silver (AgNO3)"
+  },
+  {
+    "alias": "AgNPs",
+    "canonical_name": "Silver nanoparticles",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Silver nanoparticles (AgNPs)"
+  },
+  {
+    "alias": "Al2O3",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AlCl3",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AlOx",
+    "canonical_name": "Aluminum oxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Aluminum oxide (AlOx)"
+  },
+  {
+    "alias": "AqpZ",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "AqpZ-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 7,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "ArPD",
+    "canonical_name": "芳香族聚酰胺胺树枝状聚合物",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "芳香族聚酰胺胺树枝状聚合物 (ArPD)"
+  },
+  {
+    "alias": "Arg-Arg",
+    "canonical_name": "Arginyl-arginine",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Arginyl-arginine (Arg-Arg)"
+  },
+  {
+    "alias": "BA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "BC",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "BIBB",
+    "canonical_name": "a-bromoisobutyryl bromide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "a-bromoisobutyryl bromide (BIBB)"
+  },
+  {
+    "alias": "BMEA",
+    "canonical_name": "Bis(2-methoxyethyl)amine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Bis(2-methoxyethyl)amine (BMEA)"
+  },
+  {
+    "alias": "BO",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "BP",
+    "canonical_name": "Benzophenone",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Benzophenone (BP)"
+  },
+  {
+    "alias": "BPSH100",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "BTC",
+    "canonical_name": "PSF/Fe",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "PSF/Fe(BTC)"
+  },
+  {
+    "alias": "BTEC",
+    "canonical_name": "3,3,5,5-biphenyl tetraacyl chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3,3,5,5-biphenyl tetraacyl chloride (BTEC)"
+  },
+  {
+    "alias": "BTESA",
+    "canonical_name": "Organosilica",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Organosilica (BTESA)"
+  },
+  {
+    "alias": "BTESE",
+    "canonical_name": "1,2-Bis(triethoxysilyl)ethane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,2-Bis(triethoxysilyl)ethane (BTESE)"
+  },
+  {
+    "alias": "BTESPA",
+    "canonical_name": "Organosilica",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Organosilica (BTESPA)"
+  },
+  {
+    "alias": "BTMSPA",
+    "canonical_name": "Organosilica",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Organosilica (BTMSPA)"
+  },
+  {
+    "alias": "BW30",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "BiBBr",
+    "canonical_name": "2-溴异丁酰溴",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2-溴异丁酰溴 (BiBBr)"
+  },
+  {
+    "alias": "C3N4",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CA",
+    "canonical_name": "cellulose acetate",
+    "category": "substrate",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "CA-Mg-LDH",
+    "canonical_name": "Citrate-magnesium-LDH",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Citrate-magnesium-LDH (CA-Mg-LDH)"
+  },
+  {
+    "alias": "CAA",
+    "canonical_name": "2-carboxyethyl acrylate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2-carboxyethyl acrylate (CAA)"
+  },
+  {
+    "alias": "CAB",
+    "canonical_name": "Cellulose Acetate Blend",
+    "category": "substrate",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Cellulose Acetate Blend (CAB)"
+  },
+  {
+    "alias": "CB",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CC",
+    "canonical_name": "Cyanuric chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Cyanuric chloride (CC)"
+  },
+  {
+    "alias": "CD",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 8,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CD10",
+    "canonical_name": "Superfloc-C492",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Superfloc-C492 (CD10)"
+  },
+  {
+    "alias": "CD35",
+    "canonical_name": "Superfloc-C496",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Superfloc-C496 (CD35)"
+  },
+  {
+    "alias": "CDA",
+    "canonical_name": "二乙酸纤维素",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 2,
+    "status": "pending",
+    "note": "二乙酸纤维素(CDA); 二乙酸纤维素(CDA)"
+  },
+  {
+    "alias": "CDs",
+    "canonical_name": "Carbon dots",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Carbon dots (CDs)"
+  },
+  {
+    "alias": "CF",
+    "canonical_name": "纤维素纤维",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "纤维素纤维 (CF)"
+  },
+  {
+    "alias": "CFIC",
+    "canonical_name": "5-氯甲酰氧基间苯二甲酰氯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "5-氯甲酰氧基间苯二甲酰氯(CFIC)"
+  },
+  {
+    "alias": "CHDA",
+    "canonical_name": "1,4-cyclohexanediamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,4-cyclohexanediamine (CHDA)"
+  },
+  {
+    "alias": "CN",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CNF",
+    "canonical_name": "Cellulose nanofibers",
+    "category": "substrate",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Cellulose nanofibers (CNF)"
+  },
+  {
+    "alias": "CNO",
+    "canonical_name": "Oxidized graphitic carbon nitride",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Oxidized graphitic carbon nitride (CNO)"
+  },
+  {
+    "alias": "CNT",
+    "canonical_name": "Carbon nanotubes",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Carbon nanotubes (CNT)"
+  },
+  {
+    "alias": "CNTs",
+    "canonical_name": "Carbon Nanotubes",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Carbon Nanotubes (CNTs)"
+  },
+  {
+    "alias": "CO2",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "COF",
+    "canonical_name": "Covalent-organic framework",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Covalent-organic framework (COF)"
+  },
+  {
+    "alias": "CONH2",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CONs",
+    "canonical_name": "TpPa-1 covalent organic framework nanosheets",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "TpPa-1 covalent organic framework nanosheets (CONs)"
+  },
+  {
+    "alias": "COO",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 13,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "COOH-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CS",
+    "canonical_name": "Chitosan",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Chitosan (CS)"
+  },
+  {
+    "alias": "CSA",
+    "canonical_name": "(+)-10-樟脑磺酸",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "(+)-10-樟脑磺酸(CSA)"
+  },
+  {
+    "alias": "CSNP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CTA",
+    "canonical_name": "cellulose triacetate",
+    "category": "substrate",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "CeO2",
+    "canonical_name": "Cerium oxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Cerium oxide (CeO2)"
+  },
+  {
+    "alias": "ChNf",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "CuBr2",
+    "canonical_name": "copper (II) bromide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "copper (II) bromide (CuBr2)"
+  },
+  {
+    "alias": "CuCl2",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 8,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DABA",
+    "canonical_name": "N-(4-phenyl)-3,5-diaminobenzoic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "N-(4-phenyl)-3,5-diaminobenzoic acid (DABA)"
+  },
+  {
+    "alias": "DADMAC",
+    "canonical_name": "Diallyl dimethyl ammonium chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Diallyl dimethyl ammonium chloride (DADMAC)"
+  },
+  {
+    "alias": "DAH",
+    "canonical_name": "1,6-diaminohexane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,6-diaminohexane (DAH)"
+  },
+  {
+    "alias": "DAO",
+    "canonical_name": "1,8-diaminooctane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,8-diaminooctane (DAO)"
+  },
+  {
+    "alias": "DAT",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DCM",
+    "canonical_name": "Dichloromethane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Dichloromethane (DCM)"
+  },
+  {
+    "alias": "DDS",
+    "canonical_name": "十二烷基磺酸钠",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "十二烷基磺酸钠(DDS)"
+  },
+  {
+    "alias": "DEA",
+    "canonical_name": "Diethanolamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Diethanolamine (DEA)"
+  },
+  {
+    "alias": "DEAE",
+    "canonical_name": "阴离子二乙氨基乙基纤维素",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "阴离子二乙氨基乙基纤维素 (DEAE)"
+  },
+  {
+    "alias": "DEE",
+    "canonical_name": "Diethyl Ether",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Diethyl Ether (DEE)"
+  },
+  {
+    "alias": "DGEBA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DMA",
+    "canonical_name": "二甲基乙酰胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 2,
+    "status": "pending",
+    "note": "二甲基乙酰胺 (DMA); 二甲基乙酰胺(DMA)"
+  },
+  {
+    "alias": "DMAC",
+    "canonical_name": "二甲基乙酰胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "二甲基乙酰胺(DMAC)"
+  },
+  {
+    "alias": "DMAP",
+    "canonical_name": "4-二甲氨基吡啶",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "4-二甲氨基吡啶(DMAP)"
+  },
+  {
+    "alias": "DMAc",
+    "canonical_name": "N,N-dimethylacetamide",
+    "category": "solvent",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "DMC",
+    "canonical_name": "Dimethyl carbonate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Dimethyl carbonate (DMC)"
+  },
+  {
+    "alias": "DMDCS",
+    "canonical_name": "Dimethyldichlorosilane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Dimethyldichlorosilane (DMDCS)"
+  },
+  {
+    "alias": "DMF",
+    "canonical_name": "N,N-dimethylformamide",
+    "category": "solvent",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "DMP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DMPC",
+    "canonical_name": "1,2-dimyristoyl-sn-glycero-3-phosphocholine",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,2-dimyristoyl-sn-glycero-3-phosphocholine (DMPC)"
+  },
+  {
+    "alias": "DMSO",
+    "canonical_name": "dimethyl sulfoxide",
+    "category": "solvent",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "DMTAP",
+    "canonical_name": "1,2-dimyristoyl-3-trimethylammonium propane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,2-dimyristoyl-3-trimethylammonium propane (DMTAP)"
+  },
+  {
+    "alias": "DOPC",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DOW",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "DPE",
+    "canonical_name": "PDA-coated PE",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "PDA-coated PE (DPE)"
+  },
+  {
+    "alias": "EA",
+    "canonical_name": "Ethyl Acetate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Ethyl Acetate (EA)"
+  },
+  {
+    "alias": "ED",
+    "canonical_name": "Ethylenediamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Ethylenediamine (ED)"
+  },
+  {
+    "alias": "EDA",
+    "canonical_name": "ethane-1,2-diamine",
+    "category": "monomer",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "EDC",
+    "canonical_name": "1-ethyl-3-(3-dimethylaminopropyl) carbodiimide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1-ethyl-3-(3-dimethylaminopropyl) carbodiimide (EDC)"
+  },
+  {
+    "alias": "EDTA",
+    "canonical_name": "Ethylenediaminetetraacetic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Ethylenediaminetetraacetic acid (EDTA)"
+  },
+  {
+    "alias": "EGE",
+    "canonical_name": "乙二醇二缩水甘油醚",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "乙二醇二缩水甘油醚 (EGE)"
+  },
+  {
+    "alias": "EHD",
+    "canonical_name": "2-ethyl-1,3-hexanediol",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2-ethyl-1,3-hexanediol (EHD)"
+  },
+  {
+    "alias": "EM",
+    "canonical_name": "2-Methoxyethanol",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2-Methoxyethanol (EM)"
+  },
+  {
+    "alias": "ES20",
+    "canonical_name": "Polyamide RO",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide RO membrane (ES20)"
+  },
+  {
+    "alias": "ESPA-1",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "ESPA2",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (ESPA2)"
+  },
+  {
+    "alias": "EoL",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "FSA",
+    "canonical_name": "Fluosilicic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Fluosilicic acid (FSA)"
+  },
+  {
+    "alias": "FT-30",
+    "canonical_name": "Filmtec",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Filmtec (FT-30)"
+  },
+  {
+    "alias": "FeCl3",
+    "canonical_name": "三氯化铁",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "三氯化铁(FeCl3)"
+  },
+  {
+    "alias": "FilmTec",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "GA",
+    "canonical_name": "Glutaraldehyde",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Glutaraldehyde (GA)"
+  },
+  {
+    "alias": "GE",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "GH",
+    "canonical_name": "Guanidine hydrochloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Guanidine hydrochloride (GH)"
+  },
+  {
+    "alias": "GHPEI",
+    "canonical_name": "Poly",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Poly(GHPEI)"
+  },
+  {
+    "alias": "GO",
+    "canonical_name": "氧化石墨烯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 3,
+    "status": "pending",
+    "note": "氧化石墨烯 (GO); 氧化石墨烯(GO); 氧化石墨烯(GO)"
+  },
+  {
+    "alias": "GO-0",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "GONP",
+    "canonical_name": "Graphene oxide nanoparticles",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Graphene oxide nanoparticles (GONP)"
+  },
+  {
+    "alias": "GOQD",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "GOT",
+    "canonical_name": "Graphene oxides and tannic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Graphene oxides and tannic acid (GOT)"
+  },
+  {
+    "alias": "GPOSS",
+    "canonical_name": "3-Glycidyloxypropyl-poss",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3-Glycidyloxypropyl-poss (GPOSS)"
+  },
+  {
+    "alias": "GPPTMS",
+    "canonical_name": "3-glycidoxypropyltrimethoxysilane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3-glycidoxypropyltrimethoxysilane (GPPTMS)"
+  },
+  {
+    "alias": "GPa",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 9,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "GTA",
+    "canonical_name": "三乙酸甘油酯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "三乙酸甘油酯(GTA)"
+  },
+  {
+    "alias": "H2O",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "H2O2",
+    "canonical_name": "Hydrogen peroxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Hydrogen peroxide (H2O2)"
+  },
+  {
+    "alias": "H2SO4",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "HB",
+    "canonical_name": "4-hydroxybenzaldehyde",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "4-hydroxybenzaldehyde (HB)"
+  },
+  {
+    "alias": "HCEC",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 9,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "HCP-B-SO3H",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "HCl",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 10,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "HEMA",
+    "canonical_name": "甲基丙烯酸羟乙酯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "甲基丙烯酸羟乙酯(HEMA)"
+  },
+  {
+    "alias": "HEMA-co-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "HF",
+    "canonical_name": "Hydrofluoric acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Hydrofluoric acid (HF)"
+  },
+  {
+    "alias": "HFA",
+    "canonical_name": "Hexafluoroalcohol",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Hexafluoroalcohol (HFA)"
+  },
+  {
+    "alias": "HFAMDA",
+    "canonical_name": "3,3-双(1-羟基-1-三氟甲基-2,2,2-三氟乙基)-4,4-亚甲基二苯胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3,3-双(1-羟基-1-三氟甲基-2,2,2-三氟乙基)-4,4-亚甲基二苯胺(HFAMDA)"
+  },
+  {
+    "alias": "HHMP",
+    "canonical_name": "Initiator 2959",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Initiator 2959 (HHMP)"
+  },
+  {
+    "alias": "HKUST-1",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "HMDA",
+    "canonical_name": "六亚甲基二胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "六亚甲基二胺 (HMDA)"
+  },
+  {
+    "alias": "HMDI",
+    "canonical_name": "六亚甲基二异氰酸酯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "六亚甲基二异氰酸酯 (HMDI)"
+  },
+  {
+    "alias": "HMPA",
+    "canonical_name": "Hexamethyl phosphoramide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Hexamethyl phosphoramide (HMPA)"
+  },
+  {
+    "alias": "HNT",
+    "canonical_name": "Halloysite Nanotubes",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Halloysite Nanotubes (HNT)"
+  },
+  {
+    "alias": "HNT-G1",
+    "canonical_name": "第一代聚酰胺-胺改性埃洛石纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "第一代聚酰胺-胺改性埃洛石纳米管(HNT-G1)"
+  },
+  {
+    "alias": "HNT-G2",
+    "canonical_name": "第二代聚酰胺-胺改性埃洛石纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "第二代聚酰胺-胺改性埃洛石纳米管(HNT-G2)"
+  },
+  {
+    "alias": "HNT-G3",
+    "canonical_name": "第三代聚酰胺-胺改性埃洛石纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "第三代聚酰胺-胺改性埃洛石纳米管(HNT-G3)"
+  },
+  {
+    "alias": "HNTs",
+    "canonical_name": "埃洛石纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "埃洛石纳米管(HNTs)"
+  },
+  {
+    "alias": "HOSA",
+    "canonical_name": "羟胺-O-磺酸",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "羟胺-O-磺酸(HOSA)"
+  },
+  {
+    "alias": "HPAN",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "HPEA",
+    "canonical_name": "超支化聚酯酰胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "超支化聚酯酰胺(HPEA)"
+  },
+  {
+    "alias": "HPK",
+    "canonical_name": "光引发剂: 1-羟基环己基苯基酮",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "光引发剂: 1-羟基环己基苯基酮 (HPK)"
+  },
+  {
+    "alias": "HT",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "ICl",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 8,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "II",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 9,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "III",
+    "canonical_name": "Iron",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Iron(III)"
+  },
+  {
+    "alias": "IP-1016",
+    "canonical_name": "Isoparaffin",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Isoparaffin (IP-1016)"
+  },
+  {
+    "alias": "IP-1620",
+    "canonical_name": "Isoparaffin",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Isoparaffin (IP-1620)"
+  },
+  {
+    "alias": "IPA",
+    "canonical_name": "2-propanol",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2-propanol (IPA)"
+  },
+  {
+    "alias": "IPC",
+    "canonical_name": "间苯二甲酰氯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 2,
+    "status": "pending",
+    "note": "间苯二甲酰氯(IPC); 间苯二甲酰氯(IPC)"
+  },
+  {
+    "alias": "IU",
+    "canonical_name": "Imidazolidinyl urea",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Imidazolidinyl urea (IU)"
+  },
+  {
+    "alias": "IUP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "IV",
+    "canonical_name": "3-(chlorosulphonyl)benzoyl chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3-(chlorosulphonyl)benzoyl chloride (IV)"
+  },
+  {
+    "alias": "K2S2O8",
+    "canonical_name": "过硫酸钾",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "过硫酸钾(K2S2O8)"
+  },
+  {
+    "alias": "KGy",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "KOH",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "KPS",
+    "canonical_name": "Potassium persulfate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Potassium persulfate (KPS)"
+  },
+  {
+    "alias": "KURIVERTER",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "L-SOP",
+    "canonical_name": "L-O-Phosphoserine",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "L-O-Phosphoserine (L-SOP)"
+  },
+  {
+    "alias": "LDH",
+    "canonical_name": "Layered double hydroxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Layered double hydroxide (LDH)"
+  },
+  {
+    "alias": "LOW1",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (LOW1)"
+  },
+  {
+    "alias": "LPR",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "LTA",
+    "canonical_name": "Polyamide/Zeolite",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide/Zeolite (LTA)"
+  },
+  {
+    "alias": "LiCl",
+    "canonical_name": "Lithium chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Lithium chloride (LiCl)"
+  },
+  {
+    "alias": "MABH",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MBA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MCM-41",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MEK",
+    "canonical_name": "甲基乙基酮",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "甲基乙基酮 (MEK)"
+  },
+  {
+    "alias": "MF",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MGO-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MHX",
+    "canonical_name": "multi hydroxyl containing cross-linking monomers",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "multi hydroxyl containing cross-linking monomers (MHX)"
+  },
+  {
+    "alias": "MI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MIL",
+    "canonical_name": "Micro-patterned PES",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Micro-patterned PES (MIL)"
+  },
+  {
+    "alias": "MIL-101",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 7,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MIL-101-Cr",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MMA",
+    "canonical_name": "Methyl methacrylate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Methyl methacrylate (MMA)"
+  },
+  {
+    "alias": "MMIM",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MMT",
+    "canonical_name": "Montmorillonite",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Montmorillonite (MMT)"
+  },
+  {
+    "alias": "MOF",
+    "canonical_name": "UiO-66 metal-organic framework",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "UiO-66 metal-organic framework (MOF)"
+  },
+  {
+    "alias": "MP1040",
+    "canonical_name": "Polysulfone nanocomposite",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone nanocomposite (MP1040)"
+  },
+  {
+    "alias": "MPAC",
+    "canonical_name": "Moringa protein-alginate complex",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Moringa protein-alginate complex (MPAC)"
+  },
+  {
+    "alias": "MPBA",
+    "canonical_name": "COOH-functionalized g-C3N4",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "COOH-functionalized g-C3N4 (MPBA)"
+  },
+  {
+    "alias": "MPD",
+    "canonical_name": "m-phenylenediamine",
+    "category": "monomer",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "MPD-TMC",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (MPD-TMC)"
+  },
+  {
+    "alias": "MPDA",
+    "canonical_name": "m-phenylenediamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "m-phenylenediamine (MPDA)"
+  },
+  {
+    "alias": "MPEG",
+    "canonical_name": "Monomethoxy-poly(ethylene glycol)",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Monomethoxy-poly(ethylene glycol) (MPEG)"
+  },
+  {
+    "alias": "MPN",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MPTES",
+    "canonical_name": "3-mercaptopropyltrimethoxysilane",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "3-mercaptopropyltrimethoxysilane (MPTES)"
+  },
+  {
+    "alias": "MPa",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MW",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MWCNT",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MWCNTs",
+    "canonical_name": "functionalized Multi-walled Carbon Nanotubes",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "functionalized Multi-walled Carbon Nanotubes (MWCNTs)"
+  },
+  {
+    "alias": "MWNT",
+    "canonical_name": "Single-walled carbon nanotubes (SWNT) + multiwalled carbon nanotubes",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Single-walled carbon nanotubes (SWNT) + multiwalled carbon nanotubes (MWNT)"
+  },
+  {
+    "alias": "MWNTs",
+    "canonical_name": "酸化多壁碳纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "酸化多壁碳纳米管(MWNTs)"
+  },
+  {
+    "alias": "MWNTs-COOH",
+    "canonical_name": "羧基功能化多壁碳纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "羧基功能化多壁碳纳米管 (MWNTs-COOH)"
+  },
+  {
+    "alias": "MXene",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 8,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MoS2",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "MpMPD",
+    "canonical_name": "4-morpholinobenzene-1,3-diamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "4-morpholinobenzene-1,3-diamine (MpMPD)"
+  },
+  {
+    "alias": "N-GOQD",
+    "canonical_name": "Nitrogen doped graphene oxide quantum dots",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Nitrogen doped graphene oxide quantum dots (N-GOQD)"
+  },
+  {
+    "alias": "N-GOQDs",
+    "canonical_name": "Nitrogendoped graphene oxide quantum dots",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Nitrogendoped graphene oxide quantum dots (N-GOQDs)"
+  },
+  {
+    "alias": "NBS",
+    "canonical_name": "4-Nitrobenzenesulfonyl chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "4-Nitrobenzenesulfonyl chloride (NBS)"
+  },
+  {
+    "alias": "NCS",
+    "canonical_name": "N-chlorosuccinimide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "N-chlorosuccinimide (NCS)"
+  },
+  {
+    "alias": "NF",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 9,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NF90",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NH2",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NH2-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NH2-TNTs",
+    "canonical_name": "氨基化钛酸盐纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "氨基化钛酸盐纳米管(NH2-TNTs)"
+  },
+  {
+    "alias": "NH2Cl",
+    "canonical_name": "Monochloramines",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Monochloramines (NH2Cl)"
+  },
+  {
+    "alias": "NH3",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NIPAm",
+    "canonical_name": "N-isopropyl acrylamide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "N-isopropyl acrylamide (NIPAm)"
+  },
+  {
+    "alias": "NIPAm-1AAc",
+    "canonical_name": "Polyamide/P",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide/P(NIPAm-1AAc)"
+  },
+  {
+    "alias": "NIPAm-3AAc",
+    "canonical_name": "Polyamide/P",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide/P(NIPAm-3AAc)"
+  },
+  {
+    "alias": "NIPAm-5AAc",
+    "canonical_name": "Polyamide/P",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide/P(NIPAm-5AAc)"
+  },
+  {
+    "alias": "NMP",
+    "canonical_name": "1-methyl-2-pyrrolidinone",
+    "category": "solvent",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "NO3",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 15,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NPs",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 34,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NTR-7450",
+    "canonical_name": "DMTAP) on Sulfonated polyethersulfone nanofiltration",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "DMTAP) on Sulfonated polyethersulfone nanofiltration membrane (NTR-7450)"
+  },
+  {
+    "alias": "NTSC",
+    "canonical_name": "6-萘三磺酰氯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "6-萘三磺酰氯(NTSC)"
+  },
+  {
+    "alias": "NWF",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "Na2-EDTA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "Na2S2O5",
+    "canonical_name": "焦亚硫酸钠",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "焦亚硫酸钠(Na2S2O5)"
+  },
+  {
+    "alias": "NaA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 18,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NaAlg",
+    "canonical_name": "Sodium alginate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Sodium alginate (NaAlg)"
+  },
+  {
+    "alias": "NaBH4",
+    "canonical_name": "Sodium borohydride",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Sodium borohydride (NaBH4)"
+  },
+  {
+    "alias": "NaCIO",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NaCl",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 7,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NaClO",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 8,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NaClO4",
+    "canonical_name": "高氯酸钠",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "高氯酸钠(NaClO4)"
+  },
+  {
+    "alias": "NaOCl",
+    "canonical_name": "Chlorine",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Chlorine (NaOCl)"
+  },
+  {
+    "alias": "NaOH",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "NaY",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "Noria-PEI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "OCl",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "OH",
+    "canonical_name": "氢氧化钠",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 2,
+    "status": "pending",
+    "note": "氢氧化钠 (OH); 氢氧化钠(OH)"
+  },
+  {
+    "alias": "OMLTA",
+    "canonical_name": "Polysulfone nanocomposite",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone nanocomposite (OMLTA)"
+  },
+  {
+    "alias": "P4VP",
+    "canonical_name": "聚(4-乙烯基吡啶)",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚(4-乙烯基吡啶) (P4VP)"
+  },
+  {
+    "alias": "PA",
+    "canonical_name": "polyamide",
+    "category": "polymer",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PA-TFC",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PAA",
+    "canonical_name": "Polyacrylic acid",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyacrylic acid (PAA)"
+  },
+  {
+    "alias": "PAA-Na",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 9,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PAA-g-PVDF",
+    "canonical_name": "Poly(acrylic acid)-grafted-PVDF",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Poly(acrylic acid)-grafted-PVDF (PAA-g-PVDF)"
+  },
+  {
+    "alias": "PABH",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PAH",
+    "canonical_name": "聚(烯丙胺)",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚(烯丙胺) (PAH)"
+  },
+  {
+    "alias": "PAI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PAMAM",
+    "canonical_name": "Polyamidoamine",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamidoamine (PAMAM)"
+  },
+  {
+    "alias": "PAMAM-PEG",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PAN",
+    "canonical_name": "polyacrylonitrile",
+    "category": "substrate",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PASP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PASS",
+    "canonical_name": "聚芳硫醚砜",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚芳硫醚砜(PASS)"
+  },
+  {
+    "alias": "PBL",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (PBL)"
+  },
+  {
+    "alias": "PDA",
+    "canonical_name": "Polydopamine",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polydopamine (PDA)"
+  },
+  {
+    "alias": "PDAC",
+    "canonical_name": "聚(二烯丙基二甲基氯化铵)",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚(二烯丙基二甲基氯化铵) (PDAC)"
+  },
+  {
+    "alias": "PDAH",
+    "canonical_name": "聚酰胺腙",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚酰胺腙 (PDAH)"
+  },
+  {
+    "alias": "PDCC",
+    "canonical_name": "2,5-吡啶二羧酰氯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "2,5-吡啶二羧酰氯 (PDCC)"
+  },
+  {
+    "alias": "PDH",
+    "canonical_name": "肼 (hydrazine) 或 2,5-吡啶二羧酸二酰肼",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "肼 (hydrazine) 或 2,5-吡啶二羧酸二酰肼 (PDH)"
+  },
+  {
+    "alias": "PDI",
+    "canonical_name": "1,4-phenylene diisocyanate",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,4-phenylene diisocyanate (PDI)"
+  },
+  {
+    "alias": "PDMS",
+    "canonical_name": "Polydimethylsiloxane",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polydimethylsiloxane (PDMS)"
+  },
+  {
+    "alias": "PDNPs-I",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PDNPs-II",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PDNPs-III",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PDNPs-IV",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PDNPs-M",
+    "canonical_name": "聚多巴胺纳米颗粒",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚多巴胺纳米颗粒(PDNPs-M)"
+  },
+  {
+    "alias": "PE",
+    "canonical_name": "Polyethylene",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyethylene (PE)"
+  },
+  {
+    "alias": "PEBA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PEEK",
+    "canonical_name": "Polyetheretherketone",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyetheretherketone (PEEK)"
+  },
+  {
+    "alias": "PEG",
+    "canonical_name": "polyethylene glycol",
+    "category": "additive",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PEG400",
+    "canonical_name": "聚乙二醇 400",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚乙二醇 400(PEG400)"
+  },
+  {
+    "alias": "PEGDGE",
+    "canonical_name": "聚乙二醇二缩水甘油醚",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚乙二醇二缩水甘油醚 (PEGDGE)"
+  },
+  {
+    "alias": "PEI",
+    "canonical_name": "polyethyleneimine",
+    "category": "monomer",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PEI-TMC",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (PEI-TMC)"
+  },
+  {
+    "alias": "PES",
+    "canonical_name": "polyethersulfone",
+    "category": "substrate",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PES-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PET",
+    "canonical_name": "Polyester",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyester (PET)"
+  },
+  {
+    "alias": "PFDA",
+    "canonical_name": "全氟癸基丙烯酸酯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "全氟癸基丙烯酸酯 (PFDA)"
+  },
+  {
+    "alias": "PFSA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PIB",
+    "canonical_name": "聚异丁烯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚异丁烯(PIB)"
+  },
+  {
+    "alias": "PIM-1",
+    "canonical_name": "聚自微孔聚合物",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚自微孔聚合物(PIM-1)"
+  },
+  {
+    "alias": "PIP",
+    "canonical_name": "piperazine",
+    "category": "monomer",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PIPC",
+    "canonical_name": "5-(1-吡咯烷基)-1,3-苯二甲酰氯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "5-(1-吡咯烷基)-1,3-苯二甲酰氯 (PIPC)"
+  },
+  {
+    "alias": "PL",
+    "canonical_name": "Natural polypeptide, ε-poly-L-lysine",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Natural polypeptide, ε-poly-L-lysine (PL)"
+  },
+  {
+    "alias": "PMF",
+    "canonical_name": "Permanent magnetic field",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Permanent magnetic field (PMF)"
+  },
+  {
+    "alias": "PMOXA6",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PP",
+    "canonical_name": "Polypropylene",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polypropylene (PP)"
+  },
+  {
+    "alias": "PPD",
+    "canonical_name": "1,4-phenylenediamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,4-phenylenediamine (PPD)"
+  },
+  {
+    "alias": "PPE",
+    "canonical_name": "等离子体处理聚乙烯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "等离子体处理聚乙烯 (PPE)"
+  },
+  {
+    "alias": "PPy",
+    "canonical_name": "Polypyrrole",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polypyrrole (PPy)"
+  },
+  {
+    "alias": "PRh",
+    "canonical_name": "Polyrhodanine",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyrhodanine (PRh)"
+  },
+  {
+    "alias": "PS",
+    "canonical_name": "1,3-propanesultone",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,3-propanesultone (PS)"
+  },
+  {
+    "alias": "PS-20",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PSA",
+    "canonical_name": "聚砜酰胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 2,
+    "status": "pending",
+    "note": "聚砜酰胺(PSA); 聚砜酰胺(PSA)"
+  },
+  {
+    "alias": "PSA-3",
+    "canonical_name": "聚砜酰胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚砜酰胺(PSA-3)"
+  },
+  {
+    "alias": "PSF",
+    "canonical_name": "polysulfone",
+    "category": "substrate",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PSF-1",
+    "canonical_name": "Polysulfone modified with polycarboxylic acid interlayer",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone modified with polycarboxylic acid interlayer (PSF-1)"
+  },
+  {
+    "alias": "PSF-2",
+    "canonical_name": "Polysulfone modified with polycarboxylic acid - ZIF-8 nanoparticles bilayer interlayer",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone modified with polycarboxylic acid - ZIF-8 nanoparticles bilayer interlayer (PSF-2)"
+  },
+  {
+    "alias": "PSM",
+    "canonical_name": "Polysulfone-modified",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone-modified (PSM)"
+  },
+  {
+    "alias": "PSS",
+    "canonical_name": "Polystyrene sulfonic acid",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polystyrene sulfonic acid (PSS)"
+  },
+  {
+    "alias": "PSSA",
+    "canonical_name": "Polysulfone-sulfamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone-sulfamide (PSSA)"
+  },
+  {
+    "alias": "PSU",
+    "canonical_name": "Polysulfone",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone (PSU)"
+  },
+  {
+    "alias": "PSf",
+    "canonical_name": "聚砜超滤支撑膜",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚砜超滤支撑膜(PSf)"
+  },
+  {
+    "alias": "PSf-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PSf-UF",
+    "canonical_name": "聚砜超滤膜",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚砜超滤膜(PSf-UF)"
+  },
+  {
+    "alias": "PTFE",
+    "canonical_name": "Tetrafluoroethylene",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Tetrafluoroethylene (PTFE)"
+  },
+  {
+    "alias": "PVA",
+    "canonical_name": "聚乙烯醇",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 2,
+    "status": "pending",
+    "note": "聚乙烯醇 (PVA); 聚乙烯醇(PVA)"
+  },
+  {
+    "alias": "PVAm",
+    "canonical_name": "Polyvinylamine",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyvinylamine (PVAm)"
+  },
+  {
+    "alias": "PVDF",
+    "canonical_name": "poly(vinylidene fluoride)",
+    "category": "substrate",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PVDF-no",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PVI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 14,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PVOH",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PVP",
+    "canonical_name": "polyvinylpyrrolidone",
+    "category": "additive",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "PVS",
+    "canonical_name": "Polyvinylsulfate",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyvinylsulfate (PVS)"
+  },
+  {
+    "alias": "PZ",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "PmAS",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "RO",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 49,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "RO4",
+    "canonical_name": "RO membranes",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "RO membranes (RO4)"
+  },
+  {
+    "alias": "S-BAPS",
+    "canonical_name": "二磺化双[4-(3-氨基苯氧基)苯基]砜",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "二磺化双[4-(3-氨基苯氧基)苯基]砜(S-BAPS)"
+  },
+  {
+    "alias": "SA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 13,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SAN",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SBMA",
+    "canonical_name": "Polyamide / poly(2-HEMA)-g-poly",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide / poly(2-HEMA)-g-poly(SBMA)"
+  },
+  {
+    "alias": "SC",
+    "canonical_name": "Sericin",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Sericin (SC)"
+  },
+  {
+    "alias": "SC-S-PSf",
+    "canonical_name": "sulfochlorinated and sulfonated polysulfone",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "sulfochlorinated and sulfonated polysulfone (SC-S-PSf)"
+  },
+  {
+    "alias": "SCA4",
+    "canonical_name": "4-sulfocalix (4) arene",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "4-sulfocalix (4) arene (SCA4)"
+  },
+  {
+    "alias": "SDS",
+    "canonical_name": "sodium dodecyl sulfate",
+    "category": "additive",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "SH",
+    "canonical_name": "Sodium hydroxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Sodium hydroxide (SH)"
+  },
+  {
+    "alias": "SLB",
+    "canonical_name": "Supported lipid bilayer",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Supported lipid bilayer (SLB)"
+  },
+  {
+    "alias": "SLS",
+    "canonical_name": "十二烷基硫酸钠",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "十二烷基硫酸钠(SLS)"
+  },
+  {
+    "alias": "SO3H",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SO3H-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SO4",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 10,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SPES",
+    "canonical_name": "磺化聚醚砜",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "磺化聚醚砜(SPES)"
+  },
+  {
+    "alias": "SPS",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SPVA",
+    "canonical_name": "Sulfonated polyvinyl alcohol",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Sulfonated polyvinyl alcohol (SPVA)"
+  },
+  {
+    "alias": "SSA",
+    "canonical_name": "Sulfosuccinic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Sulfosuccinic acid (SSA)"
+  },
+  {
+    "alias": "ST20L",
+    "canonical_name": "Polysulfone nanocomposite",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone nanocomposite (ST20L)"
+  },
+  {
+    "alias": "ST50",
+    "canonical_name": "Polysulfone nanocomposite",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone nanocomposite (ST50)"
+  },
+  {
+    "alias": "STZL",
+    "canonical_name": "Polysulfone nanocomposite",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone nanocomposite (STZL)"
+  },
+  {
+    "alias": "SW30",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SW30HR",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SWC4",
+    "canonical_name": "TFC-PA",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "TFC-PA (SWC4)"
+  },
+  {
+    "alias": "SWCNT",
+    "canonical_name": "Zwitterion functionalized single-walled CNT",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Zwitterion functionalized single-walled CNT (SWCNT)"
+  },
+  {
+    "alias": "SWNT",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "SiO2",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 33,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "T-RNC",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TA",
+    "canonical_name": "Tannic Acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Tannic Acid (TA)"
+  },
+  {
+    "alias": "TA-Fe-PEI",
+    "canonical_name": "Ferric ion-polyethyleneimine",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Ferric ion-polyethyleneimine (TA-Fe-PEI)"
+  },
+  {
+    "alias": "TAEA",
+    "canonical_name": "三-(2-氨乙基)胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "三-(2-氨乙基)胺(TAEA)"
+  },
+  {
+    "alias": "TBAC",
+    "canonical_name": "tetrabutylammonium chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "tetrabutylammonium chloride (TBAC)"
+  },
+  {
+    "alias": "TBP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TCI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TDC",
+    "canonical_name": "4, 4-thiodibenzoyl chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "4, 4-thiodibenzoyl chloride (TDC)"
+  },
+  {
+    "alias": "TDI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TDMAT",
+    "canonical_name": "四(二甲氨基)钛",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "四(二甲氨基)钛 (TDMAT)"
+  },
+  {
+    "alias": "TEA",
+    "canonical_name": "triethylamine",
+    "category": "additive",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "TEPA",
+    "canonical_name": "Tetraethylenepentamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Tetraethylenepentamine (TEPA)"
+  },
+  {
+    "alias": "TETA",
+    "canonical_name": "Triethylenetetramine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Triethylenetetramine (TETA)"
+  },
+  {
+    "alias": "TFC",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (TFC)"
+  },
+  {
+    "alias": "TFC-HR",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (TFC-HR)"
+  },
+  {
+    "alias": "TFC-PA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TFEA",
+    "canonical_name": "Fluorinated 2,2,2-trifluoroethylamine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Fluorinated 2,2,2-trifluoroethylamine (TFEA)"
+  },
+  {
+    "alias": "TFM",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (TFM)"
+  },
+  {
+    "alias": "TFN",
+    "canonical_name": "Polyamide",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide (TFN)"
+  },
+  {
+    "alias": "TFPTCS",
+    "canonical_name": "(3,3,3-三氟丙基)三氯硅烷",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "(3,3,3-三氟丙基)三氯硅烷(TFPTCS)"
+  },
+  {
+    "alias": "THF",
+    "canonical_name": "四氢呋喃",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "四氢呋喃 (THF)"
+  },
+  {
+    "alias": "TMA",
+    "canonical_name": "[2-(acryloyloxy)ethyl] trimethyl ammonium chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "[2-(acryloyloxy)ethyl] trimethyl ammonium chloride (TMA)"
+  },
+  {
+    "alias": "TMC",
+    "canonical_name": "benzene-1,3,5-tricarbonyl trichloride",
+    "category": "monomer",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "TMM",
+    "canonical_name": "三羟甲基三聚氰胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "三羟甲基三聚氰胺 (TMM)"
+  },
+  {
+    "alias": "TMes",
+    "canonical_name": "1,3,5-benzenetricarbonyl chloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1,3,5-benzenetricarbonyl chloride (TMes)"
+  },
+  {
+    "alias": "TNS",
+    "canonical_name": "Titania Nanosheet",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Titania Nanosheet (TNS)"
+  },
+  {
+    "alias": "TNTs",
+    "canonical_name": "未改性钛酸盐纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "未改性钛酸盐纳米管(TNTs)"
+  },
+  {
+    "alias": "TOB",
+    "canonical_name": "Tobramycin",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Tobramycin (TOB)"
+  },
+  {
+    "alias": "TPC",
+    "canonical_name": "terephthaloyl chloride",
+    "category": "monomer",
+    "source": "seed_manual",
+    "frequency": "",
+    "status": "confirmed",
+    "note": ""
+  },
+  {
+    "alias": "TPMA",
+    "canonical_name": "Tris(2-pyridylmethyl)amine",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Tris(2-pyridylmethyl)amine (TPMA)"
+  },
+  {
+    "alias": "TSP",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TTSBI",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TW30-1812-",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 5,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "Ti3C2Tx",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "TiCA",
+    "canonical_name": "钛醋酸纤维素",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 2,
+    "status": "pending",
+    "note": "钛醋酸纤维素 (TiCA); 钛醋酸纤维素(TiCA)"
+  },
+  {
+    "alias": "TiO2",
+    "canonical_name": "Titanium dioxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Titanium dioxide (TiO2)"
+  },
+  {
+    "alias": "TpPa",
+    "canonical_name": "COFs",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "COFs (TpPa)"
+  },
+  {
+    "alias": "Tris-HCl",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "UF",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 21,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "UF-like",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "US050",
+    "canonical_name": "Polysulfone (PSf)",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polysulfone (PSf)(US050)"
+  },
+  {
+    "alias": "USA",
+    "canonical_name": "Hydranautics",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Hydranautics (USA)"
+  },
+  {
+    "alias": "UV",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 9,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "UiO-66",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 7,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "VA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 6,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "VI",
+    "canonical_name": "Benzene-1,3-dicarboxylic acid dichloride",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Benzene-1,3-dicarboxylic acid dichloride (VI)"
+  },
+  {
+    "alias": "VIM",
+    "canonical_name": "1-vinylimidazole",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "1-vinylimidazole (VIM)"
+  },
+  {
+    "alias": "VSA",
+    "canonical_name": "乙烯基磺酸钠",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "乙烯基磺酸钠(VSA)"
+  },
+  {
+    "alias": "XLE",
+    "canonical_name": "聚酰胺TFC",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "聚酰胺TFC(XLE)"
+  },
+  {
+    "alias": "XLE-2540",
+    "canonical_name": "Polyamide RO",
+    "category": "polymer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Polyamide RO membrane (XLE-2540)"
+  },
+  {
+    "alias": "ZIF-67",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "ZIF-8",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 16,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "ZSM-5",
+    "canonical_name": "Zeolite",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Zeolite (ZSM-5)"
+  },
+  {
+    "alias": "ZnO",
+    "canonical_name": "Zinc oxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Zinc oxide (ZnO)"
+  },
+  {
+    "alias": "ZrCl4",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "ZrO2",
+    "canonical_name": "Zirconium dioxide",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Zirconium dioxide (ZrO2)"
+  },
+  {
+    "alias": "aCN",
+    "canonical_name": "Acidified gCN",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Acidified gCN (aCN)"
+  },
+  {
+    "alias": "aGO",
+    "canonical_name": "胺化氧化石墨烯",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "胺化氧化石墨烯(aGO)"
+  },
+  {
+    "alias": "aPES",
+    "canonical_name": "磺化聚芳醚砜",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "磺化聚芳醚砜(aPES)"
+  },
+  {
+    "alias": "dZIF-8",
+    "canonical_name": "缺陷型ZIF-8",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "缺陷型ZIF-8(dZIF-8)"
+  },
+  {
+    "alias": "f-TNT",
+    "canonical_name": "Hexafluorobutyl acrylate-modified (HFBA) functionalized Titanate nanotubes",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "Hexafluorobutyl acrylate-modified (HFBA) functionalized Titanate nanotubes (f-TNT)"
+  },
+  {
+    "alias": "fCNT",
+    "canonical_name": "功能化碳纳米管",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "功能化碳纳米管(fCNT)"
+  },
+  {
+    "alias": "g-C3N4",
+    "canonical_name": "functionalized graphitic carbon nitride",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "functionalized graphitic carbon nitride (g-C3N4)"
+  },
+  {
+    "alias": "mAS-VA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 11,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "mGO",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "mPDA",
+    "canonical_name": "间苯二胺",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "间苯二胺(mPDA)"
+  },
+  {
+    "alias": "o-ABA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "o-ABA-TEA",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "o-CNT",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "p-HA",
+    "canonical_name": "p-hydroxybenzoic acid",
+    "category": "monomer",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "p-hydroxybenzoic acid (p-HA)"
+  },
+  {
+    "alias": "pTNS-nTNS",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 4,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "rGO",
+    "canonical_name": "",
+    "category": "unknown",
+    "source": "high_freq_abbr",
+    "frequency": 3,
+    "status": "pending",
+    "note": "Need manual confirmation"
+  },
+  {
+    "alias": "xGnP-DA",
+    "canonical_name": "多巴胺稳定石墨烯纳米片",
+    "category": "other",
+    "source": "auto_mined",
+    "frequency": 1,
+    "status": "pending",
+    "note": "多巴胺稳定石墨烯纳米片(xGnP-DA)"
+  }
+]

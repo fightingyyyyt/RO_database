@@ -1,0 +1,118 @@
+RowIndex,Original_Name,Molecular_Formula,IUPAC_Name,Standardized_Query,CID,Canonical_SMILES,Match_Source,Status,Failure_Category,Failure_Detail,Candidates_Tried
+1,Myo-inositol,C6H12O6,"cyclohexane-1,2,3,4,5,6-hexol",Myo-inositol,892,OC1C(O)C(O)C(O)C(O)C1O,pubchem_name,FOUND,,,Myo-inositol
+2,Water (wet membrane),,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,Water (wet membrane)
+3,25% Glycerol aqueous solution,,,,,,,SKIPPED,MEASUREMENT,measurement/concentration/condition,25% Glycerol aqueous solution || Glycerol
+4,Natural air drying,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Natural air drying
+5,25% Glycerol aqueous solution + 1% SDS,,,,,,,SKIPPED,MEASUREMENT,measurement/concentration/condition,25% Glycerol aqueous solution + 1% SDS || Glycerol aqueous solution + 1% SDS
+6,25% Glycerol aqueous solution + 1% Triton × 100,,,,,,,SKIPPED,MEASUREMENT,measurement/concentration/condition,25% Glycerol aqueous solution + 1% Triton × 100 || Glycerol aqueous solution + 1% Triton × 100
+7,25% Glycerol aqueous solution + 2.5% CaCl₂,,,,,,,SKIPPED,MEASUREMENT,measurement/concentration/condition,25% Glycerol aqueous solution + 2.5% CaCl2 || Glycerol aqueous solution + 2.5% CaCl2
+8,1% SDS,,,,,,,SKIPPED,MEASUREMENT,measurement/concentration/condition,1% SDS || SDS
+9,1% Triton x -100,,,,,,,SKIPPED,MEASUREMENT,measurement/concentration/condition,1% Triton x -100 || Triton x -100 || 1% Triton x-100 || Triton x-100
+10,Diethylene glycol,C4H10O3,2-(2-hydroxyethoxy)ethanol,Diethylene glycol,8117,OCCOCCO,pubchem_name,FOUND,,,Diethylene glycol
+11,ScCO2,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,ScCO2
+12,MIL-101-Cr,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,MIL-101-Cr
+13,MIL-101-Cr-NH2,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,MIL-101-Cr-NH2
+14,MIL-101-Cr-SO3H,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,MIL-101-Cr-SO3H
+15,MIL-53-Al,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,MIL-53-Al
+16,MIL-53-Al-NH2,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,MIL-53-Al-NH2
+17,TEDA,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,TEDA
+18,TEDA-CSA,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,TEDA-CSA
+19,TBAB,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,TBAB
+20,OTS,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,OTS
+21,"Post-treatment (Glycerol, CSA/TEA, SLS)",,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),"Post-treatment (Glycerol, CSA/TEA, SLS) || Post-treatment (Glycerol,CSA/TEA,SLS)"
+22,Saturated steam post-treatment,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Saturated steam post-treatment
+23,季铵盐类杀菌剂 1227,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,季铵盐类杀菌剂 1227 || Quaternary ammonium salt fungicides 1227
+24,绿色杀菌剂,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,绿色杀菌剂 || Green fungicide
+25,DBHC,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,DBHC
+26,"N,N-dimethyl ethylamine",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"N,N-dimethyl ethylamine"
+27,"N,N-dimethyl butylamine",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"N,N-dimethyl butylamine"
+28,"N,N-dimethyl octylamine",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"N,N-dimethyl octylamine"
+29,"N,N-dimethyl dodecylamine",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"N,N-dimethyl dodecylamine"
+30,"N,N-dimethyl hexadecylamine",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"N,N-dimethyl hexadecylamine"
+31,Chloromethylation ([Cl]=1.8meq/g),,,,,,,SKIPPED,MULTI_COMPONENT,mixture/multiple chemicals in one cell (needs split),Chloromethylation ([Cl]=1.8meq/g)
+32,Amination (Trimethylamine),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Amination (Trimethylamine) || Amination
+33,Protonation,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Protonation
+34,Deprotonation,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Deprotonation
+35,HI vapor reduction,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,HI vapor reduction
+36,UV irradiation (reduction),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,UV irradiation (reduction) || UV irradiation
+37,Chitosan (cross-linking),,,,,,,SKIPPED,POLYMER_OR_BIOMATERIAL,polymer/biomaterial; usually not a single small-molecule record,Chitosan (cross-linking) || Chitosan
+38,Chitosan (4 wt%),,,,,,,SKIPPED,MEASUREMENT,measurement/concentration/condition,Chitosan (4 wt%)
+39,Acid Immersion,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Acid Immersion
+40,Ethanol in Precipitation Solution,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Ethanol in Precipitation Solution || Ethanol in Precipitation
+41,Hydantoin derivative,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Hydantoin derivative
+42,Grafting -SO3H on HCP-B,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Grafting -SO3H on HCP-B || Grafting-SO3H on HCP-B
+43,Addition of HCP-B-SO3H to aqueous phase,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Addition of HCP-B-SO3H to aqueous phase
+44,Polydopamine coating on HCP-B-SO3H,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Polydopamine coating on HCP-B-SO3H
+45,Addition of PDA@HCP-B-SO3H to aqueous phase,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Addition of PDA@HCP-B-SO3H to aqueous phase
+46,Natural drying at room temperature,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Natural drying at room temperature
+47,Wet membrane,,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,Wet membrane
+48,Drying at 20℃ with blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 20°C with blowing
+49,Drying at 20℃ without blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 20°C without blowing
+50,Drying at 40℃ with blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 40°C with blowing
+51,Drying at 40℃ without blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 40°C without blowing
+52,Drying at 50℃ with blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 50°C with blowing
+53,Drying at 50℃ without blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 50°C without blowing
+54,Drying at 60℃ with blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 60°C with blowing
+55,Drying at 60℃ without blowing,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Drying at 60°C without blowing
+56,Blowing dry at 50℃,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),Blowing dry at 50°C
+57,No drying,,,,,,,SKIPPED,PROCESS_CONDITION,process/condition description (drying/storage/treatment/etc.),No drying
+58,PSS (1.0 layer),,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,PSS (1.0 layer)
+59,PEI/DA (1.5 layers),,,,,,,SKIPPED,MULTI_COMPONENT,mixture/multiple chemicals in one cell (needs split),PEI/DA (1.5 layers)
+60,PSS (2.0 layers),,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,PSS (2.0 layers)
+61,PDA healing,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,PDA healing
+62,PSS (1.0 layer) healing,,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,PSS (1.0 layer) healing
+63,PEI/DA (1.5 layers) healing,,,,,,,SKIPPED,MULTI_COMPONENT,mixture/multiple chemicals in one cell (needs split),PEI/DA (1.5 layers) healing
+64,PSS (2.0 layers) healing,,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,PSS (2.0 layers) healing
+65,PEI-1800,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,PEI-1800
+66,PEI-10000,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,PEI-10000
+67,PEI-70000,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,PEI-70000
+68,PPHMNs,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,PPHMNs
+69,NH2-MIL-125,,,,,,,SKIPPED,MODEL_CODE,product/membrane model code,NH2-MIL-125
+70,Functionalised MWCNTs,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Functionalised MWCNTs
+71,DMEN,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,DMEN
+72,"1,3-PS",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"1,3-PS"
+73,Phenyl isocyanate,C7H5NO,isocyanatobenzene,Phenyl isocyanate,7672,O=C=Nc1ccccc1,pubchem_name,FOUND,,,Phenyl isocyanate
+74,MOF,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,MOF
+75,Aureobasidium,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Aureobasidium
+76,Phialophora,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Phialophora
+77,Trichoderma,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Trichoderma
+78,Bacillus sp. 1,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Bacillus sp. 1
+79,Pseudomonas,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Pseudomonas
+80,Bacillus sp. 2,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Bacillus sp. 2
+81,Candida,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Candida
+82,Enrichment culture,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,Enrichment culture
+83,ZIF-67 nanoparticles,,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,ZIF-67 nanoparticles || ZIF-67
+84,HKUST-1 nanoparticles,,,,,,,SKIPPED,MATERIAL_OR_SYSTEM,material/system phrase rather than a single compound,HKUST-1 nanoparticles || HKUST-1
+85,丙烯酸 (AA),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,丙烯酸 (AA) || 丙烯酸 || Acrylic (AA) || Acrylic
+86,二烯丙基二甲基氯化铵（DADMAC）,C8H16ClN,dimethyl-bis(prop-2-enyl)azanium chloride,Diallyldimethylammonium Chloride,33286,C=CC[N+](C)(C)CC=C.[Cl-],pubchem_name,FOUND,,,二烯丙基二甲基氯化铵(DADMAC) || 二烯丙基二甲基氯化铵 || Diallyldimethylammonium Chloride (DADMAC) || Diallyldimethylammonium Chloride
+87,"1,3-苯二胺 (MPD)",C6H8N2,"benzene-1,3-diamine","1,3-phenylenediamine",7935,Nc1cccc(N)c1,pubchem_name,FOUND,,,"1,3-苯二胺 (MPD) || 1,3-苯二胺 || 1,3-phenylenediamine (MPD) || 1,3-phenylenediamine"
+88,"肼 (hydrazine) 或 2,5-吡啶二羧酸二酰肼 (PDH)",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"肼 (hydrazine) 或 2,5-吡啶二羧酸二酰肼 (PDH) || 肼 (hydrazine) 或 2,5-吡啶二羧酸二酰肼 || Hydrazine or 2,5-pyridinedicarboxylic acid dihydrazide (PDH) || Hydrazine or 2,5-pyridinedicarboxylic acid dihydrazide"
+89,1-甲基咪唑（1-MI）,C4H6N2,1-methylimidazole,1-methylimidazole,1390,Cn1ccnc1,pubchem_name,FOUND,,,1-甲基咪唑(1-MI) || 1-甲基咪唑 || 1-methylimidazole (1-MI) || 1-methylimidazole
+90,六亚甲基二胺 (HMDA),C6H16N2,"hexane-1,6-diamine",Hexamethylenediamine,16402,NCCCCCCN,pubchem_name,FOUND,,,六亚甲基二胺 (HMDA) || 六亚甲基二胺 || Hexamethylenediamine (HMDA) || Hexamethylenediamine
+91,羟乙基甲基丙烯酸酯 (HEMA),C6H10O3,2-hydroxyethyl 2-methylprop-2-enoate,Hydroxyethyl methacrylate,13360,C=C(C)C(=O)OCCO,pubchem_name,FOUND,,,羟乙基甲基丙烯酸酯 (HEMA) || 羟乙基甲基丙烯酸酯 || Hydroxyethyl methacrylate (HEMA) || Hydroxyethyl methacrylate
+92,N-氨乙基哌嗪丙磺酸盐（AEPPS）,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,N-氨乙基哌嗪丙磺酸盐(AEPPS) || N-氨乙基哌嗪丙磺酸盐 || N-Aminoethylpiperazinepropanesulfonate (AEPPS) || N-Aminoethylpiperazinepropanesulfonate
+93,α-环糊精（α-CD）,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,α-环糊精(α-CD) || α-Cyclodextrin (α-CD)
+94,"1,3-苯二胺（MPD）",C6H8N2,"benzene-1,3-diamine","1,3-phenylenediamine",7935,Nc1cccc(N)c1,pubchem_name,FOUND,,,"1,3-苯二胺(MPD) || 1,3-苯二胺 || 1,3-phenylenediamine (MPD) || 1,3-phenylenediamine"
+95,二磺化双[4-(3-氨基苯氧基)苯基]砜（S-BAPS）,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,二磺化双[4-(3-氨基苯氧基)苯基]砜(S-BAPS) || 二磺化双[4-(3-氨基苯氧基)苯基]砜 || Disulfonated bis[4-(3-aminophenoxy)phenyl]sulfone (S-BAPS) || Disulfonated bis[4-(3-aminophenoxy)phenyl]sulfone
+96,ε-己内酰胺,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,ε-己内酰胺 || ε-caprolactam
+97,聚乙烯醇（PVA）,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,聚乙烯醇(PVA) || 聚乙烯醇 || Polyvinyl alcohol (PVA) || Polyvinyl alcohol
+98,"3,3'-双(1-羟基-1-三氟甲基-2,2,2-三氟乙基)-4,4'-亚甲基二苯胺（HFAMDA）",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"3,3'-双(1-羟基-1-三氟甲基-2,2,2-三氟乙基)-4,4'-亚甲基二苯胺(HFAMDA) || 3,3'-双(1-羟基-1-三氟甲基-2,2,2-三氟乙基)-4,4'-亚甲基二苯胺 || 3,3'-bis(1-hydroxy-1-trifluoromethyl-2,2,2-trifluoroethyl)-4,4'-methylenediphenylamine (HFAMDA) || 3,3'-bis(1-hydroxy-1-trifluoromethyl-2,2,2-trifluoroethyl)-4,4'-methylenediphenylamine"
+99,DADMAC,C8H16ClN,dimethyl-bis(prop-2-enyl)azanium chloride,DADMAC,33286,C=CC[N+](C)(C)CC=C.[Cl-],pubchem_name,FOUND,,,DADMAC || 二烯丙基二甲基氯化铵
+100,Pa,Pa,protactinium,Pa,23945,[Pa],pubchem_name,FOUND,,,Pa
+101,"4,4'(3,3')-二氨基二苯砜",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,"4,4'(3,3')-二氨基二苯砜 || 4,4'(3,3')-diaminodiphenyl sulfone"
+102,"4,4'-二氨基二苯砜",C12H12N2O2S,4-(4-aminophenyl)sulfonylaniline,"4,4'-diaminodiphenyl sulfone",2955,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,pubchem_name,FOUND,,,"4,4'-二氨基二苯砜 || 4,4'-diaminodiphenyl sulfone"
+103,POSS-NH3Cl,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,POSS-NH3Cl
+104,m-pheylenediamine,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,m-pheylenediamine
+105,BTESPA,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,BTESPA
+106,BTMSPA,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,BTMSPA
+107,BTESE,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,BTESE
+108,selenocystamine,C4H12N2Se2,2-(2-aminoethyldiselanyl)ethanamine,selenocystamine,115119,NCC[Se][Se]CCN,pubchem_name,FOUND,,,selenocystamine
+109,AEPPS,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,AEPPS || N-氨乙基哌嗪丙磺酸盐
+110,哌嗪,C4H10N2,piperazine,piperazine,4837,C1CNCCN1,pubchem_name,FOUND,,,哌嗪 || piperazine
+111,丙烯酰胺,C3H5NO,prop-2-enamide,acrylamide,6579,C=CC(N)=O,pubchem_name,FOUND,,,丙烯酰胺 || acrylamide
+112,甲基丙烯酸,C4H6O2,2-methylprop-2-enoic acid,methacrylic acid,4093,C=C(C)C(=O)O,pubchem_name,FOUND,,,甲基丙烯酸 || methacrylic acid
+113,间氨基苯甲酰肼,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,间氨基苯甲酰肼 || Meta-aminobenzoyl hydrazide
+114,对氨基苯甲酰肼,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,对氨基苯甲酰肼 || Para-aminobenzoyl hydrazide
+115,MpMPD,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem (name/substance/formula) in fast pass,MpMPD
+116,SMZ,,,,,,,FAILED,ABBREVIATION_ONLY,abbreviation without expansion; add to alias dictionary,SMZ
+117,间苯二胺,C6H8N2,"benzene-1,3-diamine",m-phenylenediamine,7935,Nc1cccc(N)c1,pubchem_name,FOUND,,,间苯二胺 || m-phenylenediamine

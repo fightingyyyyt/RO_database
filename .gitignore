@@ -1,0 +1,17 @@
+# 原 Part2_clean 内嵌仓库备份（勿提交）
+Part2_clean/.git_backup_nested/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 任务二：大体积抽取结果与运行输出
+Part2_clean/md_extracted/
+Part2_clean/test3/output/
+*.pkl
+~$*.xlsx
+~$*.xls
+
+# 可选：忽略本地缓存 JSON（若需上传缓存可删下列两行）
+# Part2_clean/test3/cache_*.json

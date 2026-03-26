@@ -1,0 +1,23 @@
+{
+  "input_rows": 273,
+  "output_rows": 416,
+  "record_type_counts": {
+    "single_entity": 116,
+    "mixture_component": 191,
+    "abbr_candidate": 78,
+    "non_entity": 31
+  },
+  "deepseek_parse_failures": 0,
+  "lookup_status_counts": {
+    "OK": 261,
+    "NO_HIT": 56,
+    "Polymer": 32,
+    "SKIP_NON_ENTITY": 31,
+    "NO_SPECIFIC_CHEMICAL": 21,
+    "NOT_CHEMICAL_FROM_LLM": 11,
+    "ABBR_EXPANDED_OK": 4
+  },
+  "needs_review_ratio": 0.28846153846153844,
+  "pubchem_cache_size": 313,
+  "checkpoint_file": "D:\\graduate_work\\RO_database\\Part1_chemExtract\\step1\\test9\\step2_enriched_checkpoint_2.csv"
+}

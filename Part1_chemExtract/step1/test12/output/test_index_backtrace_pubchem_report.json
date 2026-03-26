@@ -1,0 +1,13 @@
+{
+  "input_rows": 20,
+  "processed_rows": 16,
+  "md_catalog_size": 2563,
+  "backtrace_status_counts": {
+    "TOKEN_NOT_IN_MD": 10,
+    "BACKTRACE_CLASSIFIED": 5,
+    "CONTEXT_FOUND_BUT_NO_EXPANSION": 1
+  },
+  "resolved_hits": 0,
+  "classified_hits": 5,
+  "bt_only_path": "test12\\test_index_backtrace_pubchem_bt_only.xlsx"
+}

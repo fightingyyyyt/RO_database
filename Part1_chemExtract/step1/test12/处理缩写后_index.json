@@ -1,0 +1,21 @@
+{
+  "raw_db": "./test12/membrane_aligned_data_all.csv",
+  "raw_sheet": null,
+  "unresolved": "./test12/处理缩写.xlsx",
+  "unresolved_sheet": "Sheet1",
+  "output": "test12\\处理缩写后_index.xlsx",
+  "extract_columns": [
+    "膜材料",
+    "水相单体",
+    "油相单体",
+    "有机溶剂",
+    "基底",
+    "添加剂",
+    "改性剂"
+  ],
+  "raw_rows": 24046,
+  "mapping_keys": 5079,
+  "updated_rows": 1659,
+  "matched_rows": 1614,
+  "multi_candidate_rows": 853
+}

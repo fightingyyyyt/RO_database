@@ -1,0 +1,17 @@
+{
+  "input_rows": 1658,
+  "processed_rows": 807,
+  "md_catalog_size": 2563,
+  "backtrace_status_counts": {
+    "BACKTRACE_CLASSIFIED": 483,
+    "TOKEN_NOT_IN_MD": 150,
+    "MD_NOT_FOUND": 110,
+    "MISSING_SOURCE_RECORDINDEX": 32,
+    "CONTEXT_FOUND_BUT_NO_EXPANSION": 13,
+    "EXPANSION_FOUND_BUT_PUBCHEM_NO_HIT": 10,
+    "BACKTRACE_OK": 9
+  },
+  "resolved_hits": 9,
+  "classified_hits": 483,
+  "bt_only_path": "test12\\output\\4_all_bt_only.xlsx"
+}

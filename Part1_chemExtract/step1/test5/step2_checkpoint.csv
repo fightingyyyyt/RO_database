@@ -1,0 +1,121 @@
+RowIndex,Original_Name,Molecular_Formula,IUPAC_Name,Standardized_Query,CID,Canonical_SMILES,Match_Source,Status,Failure_Category,Failure_Detail,Candidates_Tried
+1,CuNPs-GO,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,CuNPs-GO
+2,CuO,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,CuO
+3,CuO nanoparticles,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,CuO nanoparticles
+4,CuO-NPs,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,CuO-NPs
+5,CuO纳米颗粒,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,CuO纳米颗粒 || CuO nanoparticles
+6,CuSO4,CuO4S,copper sulfate,CuSO4,24462,O=S(=O)([O-])[O-].[Cu+2],pubchem_name,FOUND,,,CuSO4
+7,CuSO4·5H2O,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,CuSO4·5H2O
+8,Cucurbit[6]uril,C36H36N24O12,"3,5,8,10,13,15,18,20,23,25,28,30,31,33,35,37,41,43,45,47,49,51,53,55-tetracosazanonadecacyclo[25.3.3.36,7.311,12.316,17.321,22.22,31.226,33.13,30.15,8.110,13.115,18.120,23.125,28.135,41.137,55.143,45.147,49.151,53]hexacontane-34,36,38,39,40,42,44,46,48,50,52,54-dodecone",Cucurbit[6]uril,196163,O=C1N2CN3C(=O)N4CN5C(=O)N6CN7C(=O)N8CN9C(=O)N%10CN%11C(=O)N%12CN1C1C2N2CN%13C(=O)N(CN%14C(=O)N(CN%15C(=O)N(CN%16C(=O)N(CN%17C(=O)N(CN1C2=O)C%12C%11%17)C%10C9%16)C8C7%15)C6C5%14)C4C3%13,pubchem_name,FOUND,,,Cucurbit[6]uril
+9,Cucurbit[6]uril-spermine complexes,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Cucurbit[6]uril-spermine complexes
+10,Cupric chloride dihydrate (CuCl2·2H2O),Cl2CuH4O2,dichlorocopper;dihydrate,Cupric chloride dihydrate,61482,O.O.[Cl][Cu][Cl],pubchem_name,FOUND,,,Cupric chloride dihydrate (CuCl2·2H2O) || Cupric chloride dihydrate
+11,Custom,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Custom
+12,Cyanobenzene,C7H5N,benzonitrile,Cyanobenzene,7505,N#Cc1ccccc1,pubchem_name,FOUND,,,Cyanobenzene
+13,Cyanoethyl Cellulose Acetate,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Cyanoethyl Cellulose Acetate
+14,Cyanuric chloride (CC),C3Cl3N3,"2,4,6-trichloro-1,3,5-triazine",Cyanuric chloride,7954,Clc1nc(Cl)nc(Cl)n1,pubchem_name,FOUND,,,Cyanuric chloride (CC) || Cyanuric chloride
+15,Cycloaliphatic imide,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Cycloaliphatic imide
+16,Cyclohexane,C6H12,cyclohexane,Cyclohexane,8078,C1CCCCC1,pubchem_name,FOUND,,,Cyclohexane
+17,Cyclohexanone,C6H10O,cyclohexanone,Cyclohexanone,7967,O=C1CCCCC1,pubchem_name,FOUND,,,Cyclohexanone
+18,Cysteamine,C2H7NS,2-aminoethanethiol,Cysteamine,6058,NCCS,pubchem_name,FOUND,,,Cysteamine
+19,Cysteamine (Cys),C2H7NS,2-aminoethanethiol,Cysteamine,6058,NCCS,pubchem_name,FOUND,,,Cysteamine (Cys) || Cysteamine
+20,D5A liposomes,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,D5A liposomes
+21,DA,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DA
+22,DA-DANC,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DA-DANC
+23,DA-G4D,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DA-G4D
+24,DAA-DANC,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DAA-DANC
+25,DABS,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DABS
+26,DACMC,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DACMC
+27,DADMAC,C8H16ClN,dimethyl-bis(prop-2-enyl)azanium chloride,DADMAC,33286,C=CC[N+](C)(C)CC=C.[Cl-],pubchem_name,FOUND,,,DADMAC || 二烯丙基二甲基氯化铵
+28,DAHP,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DAHP
+29,DANC-OAA,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DANC-OAA
+30,DAP,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DAP
+31,DAPL,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DAPL
+32,DAPS,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DAPS
+33,DAT,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DAT
+34,DAVT,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DAVT
+35,DBBSA,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DBBSA
+36,DBD plasma treatment,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,DBD plasma treatment
+37,DBHC,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DBHC
+38,DBNPA,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DBNPA
+39,DBP,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DBP
+40,DBS,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DBS
+41,DBSA,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DBSA
+42,DCC,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DCC
+43,DCDA,,,,,,,SKIPPED,ABBREVIATION_ONLY,abbreviation/code without expansion context,DCDA
+44,丙酮水溶液,C3H6O,propan-2-one,acetone,180,CC(C)=O,pubchem_name,FOUND,,,丙酮水溶液 || acetone aqueous solution || acetone
+45,丙醇(水相),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,丙醇(水相) || Propanol (water phase) || 丙醇
+46,丝胶,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,丝胶 || Sericin
+47,乙二胺(EDA),C2H8N2,"ethane-1,2-diamine",Ethylenediamine,3301,NCCN,pubchem_name,FOUND,,,乙二胺(EDA) || 乙二胺 || Ethylenediamine (EDA) || Ethylenediamine
+48,乙二胺（EDA）,C2H8N2,"ethane-1,2-diamine",Ethylenediamine,3301,NCCN,pubchem_name,FOUND,,,乙二胺(EDA) || 乙二胺 || Ethylenediamine (EDA) || Ethylenediamine
+49,乙二醇二缩水甘油醚 (EGE),C8H14O4,2-[2-(oxiran-2-ylmethoxy)ethoxymethyl]oxirane,Ethylene glycol diglycidyl ether,16683,C(COCC1CO1)OCC1CO1,pubchem_name,FOUND,,,乙二醇二缩水甘油醚 (EGE) || 乙二醇二缩水甘油醚 || Ethylene glycol diglycidyl ether (EGE) || Ethylene glycol diglycidyl ether
+50,乙二醛,C2H2O2,oxaldehyde,Glyoxal,7860,O=CC=O,pubchem_name,FOUND,,,乙二醛 || Glyoxal
+51,乙烯基磺酸钠（VSA）,C2H3NaO3S,sodium ethenesulfonate,Sodium Vinyl Sulfonate,3270262,C=CS(=O)(=O)[O-].[Na+],pubchem_name,FOUND,,,乙烯基磺酸钠(VSA) || 乙烯基磺酸钠 || Sodium Vinyl Sulfonate (VSA) || Sodium Vinyl Sulfonate
+52,乙酸,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,乙酸
+53,乙酸乙酯,C4H8O2,ethyl acetate,Ethyl acetate,8857,CCOC(C)=O,pubchem_name,FOUND,,,乙酸乙酯 || Ethyl acetate
+54,乙醇,C2H6O,ethanol,ethanol,702,CCO,pubchem_name,FOUND,,,乙醇 || ethanol
+55,乙醇(水溶液),C2H6O,ethanol,Ethanol,702,CCO,pubchem_name,FOUND,,,乙醇(水溶液) || Ethanol (aqueous solution) || Ethanol || 乙醇
+56,乙醇(水相),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,乙醇(水相) || Ethanol (water phase) || 乙醇
+57,乙醇（EtOH）,C2H6O,ethanol,Ethanol,702,CCO,pubchem_name,FOUND,,,乙醇(EtOH) || 乙醇 || Ethanol (EtOH) || Ethanol
+58,乙醚,C4H10O,ethoxyethane,Ether,3283,CCOCC,pubchem_name,FOUND,,,乙醚 || Ether
+59,二乙酸纤维素(CDA),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,二乙酸纤维素(CDA) || 二乙酸纤维素 || Cellulose diacetate (CDA) || Cellulose diacetate
+60,二乙酸纤维素（CDA）,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,二乙酸纤维素(CDA) || 二乙酸纤维素 || Cellulose diacetate (CDA) || Cellulose diacetate
+61,二乙醚,C4H10O,ethoxyethane,diethyl ether,3283,CCOCC,pubchem_name,FOUND,,,二乙醚 || diethyl ether
+62,二氧六烷,C4H8O2,"1,4-dioxane",Dioxane,31275,C1COCCO1,pubchem_name,FOUND,,,二氧六烷 || Dioxane
+63,二氧六环,C4H8O2,"1,4-dioxane",dioxane,31275,C1COCCO1,pubchem_name,FOUND,,,二氧六环 || dioxane
+64,二氧六环/丙酮,,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),二氧六环/丙酮 || Dioxane/acetone
+65,二氧化硅/PEI纳米纤维（#1S）,,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),二氧化硅/PEI纳米纤维(#1S) || Silica/PEI nanofiber(#1S) || 二氧化硅/PEI纳米纤维
+66,二氧化硅/PEI纳米纤维（#2S）,,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),二氧化硅/PEI纳米纤维(#2S) || Silica/PEI nanofiber(#2S) || 二氧化硅/PEI纳米纤维
+67,二氧化硅/PEI纳米纤维（#3S）,,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),二氧化硅/PEI纳米纤维(#3S) || Silica/PEI nanofiber(#3S) || 二氧化硅/PEI纳米纤维
+68,二氧化硅纳米颗粒,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,二氧化硅纳米颗粒 || Silica nanoparticles
+69,二氧化钛,O2Ti,dioxotitanium,titanium dioxide,26042,[O]=[Ti]=[O],pubchem_name,FOUND,,,二氧化钛 || titanium dioxide
+70,二氧化钛（TiO2）,O2Ti,dioxotitanium,Titanium dioxide,26042,[O]=[Ti]=[O],pubchem_name,FOUND,,,二氧化钛(TiO2) || 二氧化钛 || Titanium dioxide (TiO2) || Titanium dioxide
+71,二烯丙基二甲基氯化铵（DADMAC）,C8H16ClN,dimethyl-bis(prop-2-enyl)azanium chloride,Diallyldimethylammonium Chloride,33286,C=CC[N+](C)(C)CC=C.[Cl-],pubchem_name,FOUND,,,二烯丙基二甲基氯化铵(DADMAC) || 二烯丙基二甲基氯化铵 || Diallyldimethylammonium Chloride (DADMAC) || Diallyldimethylammonium Chloride
+72,二甘醇（DEG）,C4H10O3,2-(2-hydroxyethoxy)ethanol,Diethylene glycol,8117,OCCOCCO,pubchem_name,FOUND,,,二甘醇(DEG) || 二甘醇 || Diethylene glycol (DEG) || Diethylene glycol
+73,二甲基乙酰胺,C4H9NO,"N,N-dimethylacetamide",dimethylacetamide,31374,CC(=O)N(C)C,pubchem_name,FOUND,,,二甲基乙酰胺 || dimethylacetamide
+74,二甲基乙酰胺 (DMA),C4H9NO,"N,N-dimethylacetamide",Dimethylacetamide,31374,CC(=O)N(C)C,pubchem_name,FOUND,,,二甲基乙酰胺 (DMA) || 二甲基乙酰胺 || Dimethylacetamide (DMA) || Dimethylacetamide
+75,二甲基乙酰胺（DMAC）,C4H9NO,"N,N-dimethylacetamide",Dimethylacetamide,31374,CC(=O)N(C)C,pubchem_name,FOUND,,,二甲基乙酰胺(DMAC) || 二甲基乙酰胺 || Dimethylacetamide (DMAC) || Dimethylacetamide
+76,二甲基乙酰胺（DMA）,C4H9NO,"N,N-dimethylacetamide",Dimethylacetamide,31374,CC(=O)N(C)C,pubchem_name,FOUND,,,二甲基乙酰胺(DMA) || 二甲基乙酰胺 || Dimethylacetamide (DMA) || Dimethylacetamide
+77,二甲基亚砜,C2H6OS,methylsulfinylmethane,dimethyl sulfoxide,679,CS(C)=O,pubchem_name,FOUND,,,二甲基亚砜 || dimethyl sulfoxide
+78,二甲基亚砜（DMSO）,C2H6OS,methylsulfinylmethane,dimethyl sulfoxide,679,CS(C)=O,pubchem_name,FOUND,,,二甲基亚砜(DMSO) || 二甲基亚砜 || dimethyl sulfoxide(DMSO) || dimethyl sulfoxide
+79,二甲基甲酰胺 (DMF),C3H7NO,"N,N-dimethylformamide","N,N-dimethylformamide",6228,CN(C)C=O,pubchem_name,FOUND,,,"二甲基甲酰胺 (DMF) || 二甲基甲酰胺 || N,N-dimethylformamide (DMF) || N,N-dimethylformamide"
+80,二甲基甲酰胺（DMF）,C3H7NO,"N,N-dimethylformamide","N,N-dimethylformamide",6228,CN(C)C=O,pubchem_name,FOUND,,,"二甲基甲酰胺(DMF) || 二甲基甲酰胺 || N,N-dimethylformamide(DMF) || N,N-dimethylformamide"
+81,二甲基碳酸酯（DMC）,C3H6O3,dimethyl carbonate,Dimethyl carbonate,12021,COC(=O)OC,pubchem_name,FOUND,,,二甲基碳酸酯(DMC) || 二甲基碳酸酯 || Dimethyl carbonate (DMC) || Dimethyl carbonate
+82,二甲戊灵,C13H19N3O4,"3,4-dimethyl-2,6-dinitro-N-pentan-3-ylaniline",Pendimethalin,38479,CCC(CC)Nc1c([N+](=O)[O-])cc(C)c(C)c1[N+](=O)[O-],pubchem_name,FOUND,,,二甲戊灵 || Pendimethalin
+83,二磺化双[4-(3-氨基苯氧基)苯基]砜（S-BAPS）,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,二磺化双[4-(3-氨基苯氧基)苯基]砜(S-BAPS) || 二磺化双[4-(3-氨基苯氧基)苯基]砜 || Disulfonated bis[4-(3-aminophenoxy)phenyl]sulfone (S-BAPS) || Disulfonated bis[4-(3-aminophenoxy)phenyl]sulfone
+84,二缩三乙二醇,C6H14O4,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,Triethylene glycol,8172,OCCOCCOCCO,pubchem_name,FOUND,,,二缩三乙二醇 || Triethylene glycol
+85,二醋酸纤维素 (CDA),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,二醋酸纤维素 (CDA) || 二醋酸纤维素 || 二乙酸纤维素 || Cellulose diacetate (CDA) || Cellulose diacetate
+86,Dimethyl acetamide,C4H9NO,"N,N-dimethylacetamide",Dimethyl acetamide,31374,CC(=O)N(C)C,pubchem_name,FOUND,,,Dimethyl acetamide
+87,Dimethyl carbonate (DMC),C3H6O3,dimethyl carbonate,Dimethyl carbonate,12021,COC(=O)OC,pubchem_name,FOUND,,,Dimethyl carbonate (DMC) || Dimethyl carbonate || 二甲基碳酸酯
+88,Dimethyl sulfoxide,C2H6OS,methylsulfinylmethane,Dimethyl sulfoxide,679,CS(C)=O,pubchem_name,FOUND,,,Dimethyl sulfoxide
+89,Dimethyl sulfoxide (DMSO),C2H6OS,methylsulfinylmethane,Dimethyl sulfoxide,679,CS(C)=O,pubchem_name,FOUND,,,Dimethyl sulfoxide (DMSO) || Dimethyl sulfoxide || 二甲基亚砜
+90,Dimethylacetamide,C4H9NO,"N,N-dimethylacetamide",Dimethylacetamide,31374,CC(=O)N(C)C,pubchem_name,FOUND,,,Dimethylacetamide
+91,Dimethylacetamide (DMA),C4H9NO,"N,N-dimethylacetamide",Dimethylacetamide,31374,CC(=O)N(C)C,pubchem_name,FOUND,,,Dimethylacetamide (DMA) || Dimethylacetamide || 二甲基乙酰胺
+92,Dimethyldichlorosilane (DMDCS),C2H6Cl2Si,dichloro(dimethyl)silane,Dimethyldichlorosilane,6398,C[Si](C)(Cl)Cl,pubchem_name,FOUND,,,Dimethyldichlorosilane (DMDCS) || Dimethyldichlorosilane
+93,Dimethylformamide,C3H7NO,"N,N-dimethylformamide",Dimethylformamide,6228,CN(C)C=O,pubchem_name,FOUND,,,Dimethylformamide
+94,Dimethylsulfoxide,C2H6OS,methylsulfinylmethane,Dimethylsulfoxide,679,CS(C)=O,pubchem_name,FOUND,,,Dimethylsulfoxide
+95,Dioxane,C4H8O2,"1,4-dioxane",Dioxane,31275,C1COCCO1,pubchem_name,FOUND,,,Dioxane
+96,"Dioxane, Acetone, Acetic acid",,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),"Dioxane, Acetone, Acetic acid"
+97,"Dioxane, Acetone, Acetic acid (treated with cork powder)",,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),"Dioxane, Acetone, Acetic acid (treated with cork powder) || Dioxane, Acetone, Acetic acid || treated with cork powder"
+98,"Dioxane, MEK, Acetic acid",,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),"Dioxane, MEK, Acetic acid"
+99,Discarded reverse osmosis membranes,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Discarded reverse osmosis membranes
+100,Disodium phosphate,HNa2O4P,disodium;hydrogen phosphate,Disodium phosphate,24203,O=P([O-])([O-])O.[Na+].[Na+],pubchem_name,FOUND,,,Disodium phosphate
+101,Distilled Water,H2O,oxidane,Distilled Water,962,O,pubchem_name,FOUND,,,Distilled Water
+102,Disulfonated poly(arylene ether sulfone),,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Disulfonated poly(arylene ether sulfone) || Disulfonated poly || arylene ether sulfone
+103,Divinyl sulphone,C4H6O2S,1-ethenylsulfonylethene,Divinyl sulfone,6496,C=CS(=O)(=O)C=C,pubchem_name,FOUND,,,Divinyl sulfone
+104,Dodecanamide,C12H25NO,dodecanamide,Dodecanamide,14256,CCCCCCCCCCCC(N)=O,pubchem_name,FOUND,,,Dodecanamide
+105,Dodecane,C12H26,dodecane,Dodecane,8182,CCCCCCCCCCCC,pubchem_name,FOUND,,,Dodecane
+106,Dodecyl sodium sulfate,C12H25NaO4S,sodium dodecyl sulfate,Dodecyl sodium sulfate,3423265,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],pubchem_name,FOUND,,,Dodecyl sodium sulfate
+107,Dodecylamine,C12H27N,dodecan-1-amine,Dodecylamine,13583,CCCCCCCCCCCCN,pubchem_name,FOUND,,,Dodecylamine
+108,Dodecylguanidine hydrochloride,C13H30ClN3,2-dodecylguanidine;hydrochloride,Dodecylguanidine hydrochloride,61649,CCCCCCCCCCCCN=C(N)N.Cl,pubchem_name,FOUND,,,Dodecylguanidine hydrochloride
+109,Dopamine,C8H11NO2,"4-(2-aminoethyl)benzene-1,2-diol",Dopamine,681,NCCc1ccc(O)c(O)c1,pubchem_name,FOUND,,,Dopamine
+110,Dopamine hydrochloride,C8H12ClNO2,"4-(2-aminoethyl)benzene-1,2-diol;hydrochloride",Dopamine hydrochloride,65340,Cl.NCCc1ccc(O)c(O)c1,pubchem_name,FOUND,,,Dopamine hydrochloride
+111,"Dopamine hydrochloride (DA), Cystamine dihydrochloride (CA)",,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,"Dopamine hydrochloride (DA), Cystamine dihydrochloride (CA) || Dopamine hydrochloride (DA), Cystamine dihydrochloride"
+112,Dopamine-Graphene,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Dopamine-Graphene
+113,Dopamine/PEI/g-C3N4 nanocomposite,,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),Dopamine/PEI/g-C3N4 nanocomposite
+114,Dow FILMTEC XLE brackish water flat sheet membranes,,,,,,,SKIPPED,MODEL_CODE,product/membrane model code,Dow FILMTEC XLE brackish water flat sheet membranes
+115,Dow Filmtec SW30HR,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Dow Filmtec SW30HR
+116,Dow/FilmTec,,,,,,,SKIPPED,MULTI_COMPONENT,mixture or multiple chemicals in one cell (needs split),Dow/FilmTec
+117,Dry storage,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Dry storage
+118,Drying at 20℃ with blowing,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Drying at 20°C with blowing
+119,Drying at 20℃ without blowing,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Drying at 20°C without blowing
+120,Drying at 40℃ with blowing,,,,,,,FAILED,NOT_FOUND_FAST,no match from PubChem name search in fast pass,Drying at 40°C with blowing

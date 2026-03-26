@@ -1,0 +1,16 @@
+{
+  "input_rows": 81,
+  "processed_rows": 31,
+  "md_catalog_size": 0,
+  "resume_bt": ".\\test12\\test_index_backtrace_pubchem_bt_only.xlsx",
+  "backtrace_status_counts": {
+    "TOKEN_NOT_IN_MD": 12,
+    "LLM_EXPANSION_BUT_PUBCHEM_NO_HIT": 7,
+    "BACKTRACE_OK": 4,
+    "BACKTRACE_CLASSIFIED": 4,
+    "MD_NOT_FOUND": 3,
+    "BACKTRACE_CLASS_HINT": 1
+  },
+  "resolved_hits": 4,
+  "classified_hits": 4
+}
